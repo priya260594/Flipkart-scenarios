@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[login button closed]]>
+    </line>
+    <line>
+      <![CDATA[mobile is searched]]>
+    </line>
+    <line>
+      <![CDATA[products are printed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-20T17:39:01 IST" name="Default suite" finished-at="2022-09-20T17:41:12 IST" duration-ms="131182">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T17:39:01 IST" name="Default test" finished-at="2022-09-20T17:41:12 IST" duration-ms="131182">
+      <class name="TrialScenarios.Flipkart.RedmiMoble4GBTest">
+        <test-method signature="redmiMobileTest()[pri:0, instance:TrialScenarios.Flipkart.RedmiMoble4GBTest@4ddced80]" started-at="2022-09-20T17:39:01 IST" name="redmiMobileTest" finished-at="2022-09-20T17:41:12 IST" duration-ms="131092" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login button closed]]>
+            </line>
+            <line>
+              <![CDATA[mobile is searched]]>
+            </line>
+            <line>
+              <![CDATA[products are printed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- redmiMobileTest -->
+      </class> <!-- TrialScenarios.Flipkart.RedmiMoble4GBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
